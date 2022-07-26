@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woodturner550
 - 👀 I’m interested in Python3 and binary projects 
 - - 🌱 I’m currently learning Python3 and PyCharm
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on binary logic
 - 📫 How to reach me tomanytroubles@gmail.com
 
 <!---
